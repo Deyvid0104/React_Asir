@@ -1,0 +1,41 @@
+main{
+    background-color:greenyellow;
+    /* height:500px; */
+    width:100%;
+    display:flex;
+    flex:row nowrap;
+
+    section{
+        width:80%;
+        background-color:antiquewhite;
+        flex-grow: 1;
+        overflow-y: auto; 
+        padding: 10px;
+    }
+    
+    aside{
+        width:20%;
+        background-color:yellowgreen;
+        padding: 7px;
+    }
+}
+
+main section{
+    width:80%;
+    background-color:antiquewhite;
+}
+
+main aside{
+    width:20%;
+    background-color:yellowgreen;
+}
+
+@media (max-width:800px){
+    aside{
+        display:none;
+    }
+    main section{
+        width:100%;
+    }
+
+  }
