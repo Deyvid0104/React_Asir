@@ -1,0 +1,37 @@
+[
+    {
+        "imagen": "https://www.servigroup.com/assets/cache/uploads/gallery/proposals/excursiones/que-ver-almeria/1280x720/alcazaba-almeria-1701094733.jpg",
+        "titulo": "almeria",
+        "texto": "noticias de Almeria"
+    },
+    {
+        "imagen": "https://spainbyhanne.dk/wp-content/uploads/2019/09/Granada_City_SBH-1-1600x1007.jpg",
+        "titulo": "granada",
+        "texto": "noticias de Granada"
+    },
+    {
+        "imagen": "https://meloviajo.com/wp-content/uploads/2023/02/tania-mousinho-dMi3pqiqhsw-unsplash-1.jpg",
+        "titulo": "sevilla",
+        "texto": "noticias de Sevilla"
+    },
+    {
+        "imagen": "https://media.traveler.es/photos/613762b7c6202df75915f67c/master/w_1600%2Cc_limit/189287.jpg",
+        "titulo": "jaen",
+        "texto": "noticias de Jaen"
+    },
+    {
+        "imagen": "https://andaluciaexclusiva.com/wp-content/uploads/2020/01/portada-cadiz.jpg",
+        "titulo": "cadiz",
+        "texto": "noticias de Cadiz"
+    },
+    {
+        "imagen": "https://www.barcelo.com/guia-turismo/wp-content/uploads/huelva-provincia-1.jpg",
+        "titulo": "huelva",
+        "texto": "noticias de Huelva"
+    },
+    {
+        "imagen": "https://fotografias.larazon.es/clipping/cmsimages01/2022/11/09/E0E98953-B0A9-4632-BAEF-C6EAC4549775/98.jpg?crop=2119,1192,x0,y111&width=1900&height=1069&optimize=low&format=webply",
+        "titulo": "cordoba",
+        "texto": "noticias de Cordoba"
+    }
+]

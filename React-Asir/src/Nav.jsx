@@ -13,6 +13,7 @@ function Navegacion() {
             <NavDropdown.Item href="/noticias/jefatura">Noticias de Jefatura</NavDropdown.Item>
             <NavDropdown.Item href="/noticias/informatica">Noticias de Informática</NavDropdown.Item>
           </NavDropdown>
+          <Nav.Link href="/defensa">Defensa</Nav.Link>
           <Nav.Link href="/galeria">Galería</Nav.Link>
           <Nav.Link href="/about"><IoIosContact /> Contacto</Nav.Link>
         </Nav>

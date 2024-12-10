@@ -5,6 +5,7 @@ import Aside from './Aside';
 import Tarjetas from './Cards'; // Asegúrate de que este componente esté creado
 import Galeria from './Galeria'; // Componente para la galería
 import './contenido.module.css'
+import Defensa from './Defensa';
 
 function Contenido() {
   return (
@@ -15,6 +16,7 @@ function Contenido() {
         <section>
           <Routes>
             <Route exact path="/" element={<Tarjetas />} />
+            <Route path="/defensa" element={<Defensa />} />
             <Route path="/galeria" element={<Galeria />} />
             {/* Otras rutas según sea necesario */}
           </Routes>
